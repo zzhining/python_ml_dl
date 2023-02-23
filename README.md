@@ -15,7 +15,7 @@
 1.4.7 전체 맵(Mae)
 - 1.5 컴퓨터를 학습시키기 위한 준비
   1) 환경 설정 - 코랩(Colab)
-  2) 데이터 분석을 위한 파이썬 기초 문법
+  2) 데이터 분석을 위한 파이썬 기초 문법[[CODE]](https://github.com/zzhining/python_ml_dl/blob/main/1_5_python_basic.ipynb)
 
 ### 2장. 머신러닝 프로세스
 - 2.1 머신러닝 학습 절차
@@ -23,7 +23,7 @@
   2) 데이터 전처리
   3) 학습
   4) 평가
-- 2.2 실습 - 붓꽃 데이터 분류
+- [2.2 실습 - 붓꽃 데이터 분류](https://github.com/zzhining/python_ml_dl/blob/main/2_2_classifier_iris.ipynb)
 
 
 ### 3장. 분류 모델
@@ -33,9 +33,9 @@
   3) Logistic Regressor
   4) RandomForest
 - 3.2 머신러닝 모델의 성능 개선 방법
-  1) 데이터 기반 성능 개선
-  2) 모델 기반 성능 개선
-- 3.3 분류 알고리즘으로 학습하기
+  1) 데이터 기반 성능 개선[[CODE]](https://github.com/zzhining/python_ml_dl/blob/main/3_2_data_driven_methods.ipynb)
+  2) 모델 기반 성능 개선[[CODE]]()
+- [3.3 분류 알고리즘으로 학습하기]()
 
 ### 4장. 회귀 모델 - 집 값을 예측한다고?
 - 4.1 회귀 알고리즘
